@@ -1,4 +1,3 @@
-# George Morales
 ## Data Structures & Algorithms Tutorial Sheets
 
 ### Overview
